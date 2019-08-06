@@ -6,5 +6,8 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "Sojuyong"
+  "author": "Sojuyong",
+  "devDependencies": {
+    "electron": "^6.0.0"
+  }
 }
