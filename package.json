@@ -1,0 +1,10 @@
+{
+  "name": "os-path-converter",
+  "version": "1.0.0",
+  "description": "macOS와 Windows 간의 파일 형식을 변경해주는 프로그램.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sojuyong",
+}
